@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
+
+body {
+  background-position: center;
+  background-color: #dcffde;
+  background-blend-mode: soft-light;
+  background-attachment: fixed;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.vl {
+  border-left: 3px solid #799479;
+  float: left;
+  height: 7640px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  margin-left: 0.6em;
+}
+
+h3 {
+  font-size: 2.1em;
+  color: #469446;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3.title {
+  font-family: raleway;
+  text-align: start;
+  padding: 0em;
+  margin-bottom: 0.2em;
+  margin-left: -0.3em;
+}
+
+li {
+  padding-top: 0em;
+  font-size: 1.8em;
+}
+span {
+  font-size: 0.6em;
+}
+ul {
+  color: #3a3a3a;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  font-size: 1.1em;
+}
+
+img {
+  cursor: pointer;
+  max-width: 90%;
+  object-fit: cover;
+  align-content: center;
+  margin-bottom: 3em;
+}
+
+a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #469446;
+  display: block;
+  cursor: pointer;
+  margin: .5em 0em;
+  margin-left: 2em;
+}
+
+h2 {
+  margin-top: 0.9em;
+  padding-top: 0em;
+  text-align: center;
+  font-size: 40px;
+  font-family: comfortaa;
+}
